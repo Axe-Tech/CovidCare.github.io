@@ -1,1 +1,1 @@
-https://axe-tech.github.io/covid.github.io/
+https://axe-tech.github.io/CovidCare.github.io/
